@@ -1,5 +1,5 @@
 {
-  "name": "tunified",
+  "name": "farhan-music_bot",
   "version": "5.3",
   "apivar": "4.0",
   "description": "Tunified bot fetches the currently playing song from Last.fm and shares it on Telegram.",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Burhanverse/Tunified.git"
   },
-  "author": "@Burhanverse",
+  "author": "@frnwot",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Burhanverse/Tunified/issues"
